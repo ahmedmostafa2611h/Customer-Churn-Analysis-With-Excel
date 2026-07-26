@@ -101,7 +101,7 @@ Examines the relationship between monthly data consumption and customer churn be
 
 ## 📷 Dashboard Preview
 
-> *(Add a screenshot named `dashboard.png` inside the repository and uncomment the line below.)*
+> *(Add a screenshot named `csa2.JPG` inside the repository and uncomment the line below.)*
 
 
 ## 🚀 What I Learned
